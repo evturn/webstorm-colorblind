@@ -2,4 +2,4 @@
 
 Cool.
 
-![Alt text](https://raw.githubusercontent.com/evturn//master/webstorm-colorbkind/img.png)
+![Alt text](https://raw.githubusercontent.com/evturn/master/webstorm-colorbkind/img.png)
